@@ -19,5 +19,5 @@
         </ul>
     </section>
     <footer>
-        <p>&copy; 2024 My GitHub Project. All rights reserved.</p>
+        <p>&copy; 2024 Meesam Abbas. All rights reserved.</p>
     </footer>
