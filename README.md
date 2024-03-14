@@ -9,12 +9,12 @@
     <section>
         <h2>Project Links</h2>
         <ul>
-            <li><a href="Python/programs/Factorial_Number">Factorial of Any Number</a></li>
-            <li><a href="Python/programs/Letter_GuessingGame">Letter Guessing Game</a></li>
-            <li><a href="Python/programs/Check_Palindrom">Check If plaindrome or not</a></li>
-            <li><a href="Python/programs/Password_Genrator">Password Genrator</a></li>
-            <li><a href="Python/programs/Card_game">Card Game</a></li>
-            <li><a href="Python/programs/Calculator">Calculator</a></li>
+            <li><a href="Python/programs/factorial of a number">Factorial of Any Number</a></li>
+            <li><a href="Python/programs/Letter Guessing Game">Letter Guessing Game</a></li>
+            <li><a href="Python/programs/Palindrome or not">Check If plaindrome or not</a></li>
+            <li><a href="Python/programs/Password Genrator">Password Genrator</a></li>
+            <li><a href="Python/programs/Cards_Game">Card Game</a></li>
+            <li><a href="Python/programs/Simple Calculator">Calculator</a></li>
         </ul>
     </section>
     <footer>
