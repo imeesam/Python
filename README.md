@@ -1,4 +1,3 @@
-# Python
 <section>
     <h1>Python Programming</h1>
     <p>Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability with its notable use of significant whitespace.</p>
